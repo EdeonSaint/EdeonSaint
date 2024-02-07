@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Eduardo Gonzalez @EdeonSaint
+- 👀 I’m interested in ML and computer science
+- 🌱 I’m currently learning advanced Tensorflow
+- 💞️ I’m looking to collaborate on ML technologies for different purposes. Specially in medicine and education
+- 📫 You can reach me by my email: saint.edeon[gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I learn game design on my free time
